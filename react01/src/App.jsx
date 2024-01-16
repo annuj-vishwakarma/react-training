@@ -16,8 +16,10 @@ const App = () => {
 </div>
     </nav>
     <h1 className='text-white'>hello {username} its time to win that day!!!</h1>
-    
+    <h1>Currently i am learning react</h1>
     </div>
+
+
   )
 }
 

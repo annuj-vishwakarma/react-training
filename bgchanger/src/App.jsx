@@ -38,7 +38,7 @@ function App() {
         </div>
         
       </div>
-      <h1 className="text-white text-xl">Simple bgchanger project by hitesh sir chay or code</h1>
+      <h1 className="text-white text-xl bg-black">Simple bgchanger project by hitesh sir chay or code</h1>
     </div>
   )
 }

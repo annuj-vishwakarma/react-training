@@ -44,3 +44,6 @@ export default function Home() {
         </div>
     );
 }
+
+
+//this is the home page layout structure of the webpage
